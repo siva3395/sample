@@ -1,4 +1,4 @@
 sample
 ======
 
-Just sample rails application
+Just sample rails application for git demo
